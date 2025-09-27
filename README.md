@@ -26,7 +26,7 @@ The dataset includes demographics, labs, diagnoses, and medication data.
 
 ## ⚙️ Installation
 ```bash
-git clone https://github.com/YOURUSERNAME/hospital-readmission-ml.git
-cd hospital-readmission-ml
+git clone https://github.com/zaourid1/ml-hospital-readmission.git
+cd ml-hospital-readmission
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
